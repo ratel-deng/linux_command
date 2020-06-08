@@ -1,0 +1,6 @@
+#service iptables stop
+关闭防火墙服务
+#service iptables start
+开启防火墙服务
+#service iptables restart
+重启防火墙服务

@@ -1,0 +1,8 @@
+(#/$)lsb_release -a
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 17.04
+Release:	17.04
+Codename:	zesty
+查看当前版本
+

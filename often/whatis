@@ -1,0 +1,5 @@
+(#/$)whatis 命令名
+命令的简单说明
+例如：
+whatis apt
+apt (8)              - command-line interface

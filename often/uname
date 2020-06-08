@@ -1,0 +1,7 @@
+(#/$)uname -a
+Linux rick-virtual-machine 4.10.0-19-generic #21-Ubuntu SMP Thu Apr 6 17:04:57 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+使用的内核，详细显示
+(#/$)uname -r
+4.10.0-19-generic
+长期支持版本
+

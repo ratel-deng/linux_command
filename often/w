@@ -1,0 +1,6 @@
+(#/$)w
+ 11:13:12 up  3:42,  1 user,  load average: 0.04, 0.06, 0.01
+USER     TTY      来自           LOGIN@   IDLE   JCPU   PCPU WHAT
+rick     tty7     :0               六15   44:02m 51.01s  0.02s /bin/sh /usr/lib/gno
+显示uptime信息
+显示who信息

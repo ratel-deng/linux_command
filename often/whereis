@@ -1,0 +1,6 @@
+(#/$)whereis 命令名
+命令执行路径，命令源程序和手册位置
+例如：
+whereis apt
+apt: /usr/bin/apt /usr/lib/apt /etc/apt /usr/share/man/man8/apt.8.gz
+
